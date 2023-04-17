@@ -34,4 +34,4 @@
 </a>
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssangdon&show_icons=true&theme=스타일)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssangdon&show_icons=true&theme=highcontrast)
