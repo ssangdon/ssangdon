@@ -35,4 +35,4 @@
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssangdon&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssangdon&layout=compact&theme=Demo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssangdon&layout=compact&theme=radical)
