@@ -27,17 +27,6 @@
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
-
-
-
-## Contact Me!
-
-<a href="https://instagram.com/doniii__i">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/doniii__i/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 #
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ssangdon&show_icons=true&theme&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
